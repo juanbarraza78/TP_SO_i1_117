@@ -2,3 +2,7 @@ Alfa:
 Juan Ignacio Barraza
 190.189.76.147
 11:30
+Beta:
+Facundo Aranda 
+186.132.44.139
+11:30
