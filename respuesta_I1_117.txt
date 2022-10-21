@@ -2,3 +2,7 @@ a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 si.
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 si.
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+si.
+d-¿De qué forma se comunicaron ustedes?
+WhatsApp y Discord.
